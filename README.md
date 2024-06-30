@@ -11,4 +11,4 @@ This repository contains the supplementary materials for the thesis titled "Miti
 
 ## Acknowledgments
 
-I would like to express my sincere gratitude to my supervisor, [Mohsen Pourpouneh], for their continuous support, guidance, and valuable insights throughout this research project.
+I would like to express my sincere gratitude to my supervisor, [Mohsen Pourpouneh], for his continuous support, guidance, and valuable insights and feedback throughout this research project.
