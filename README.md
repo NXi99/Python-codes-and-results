@@ -17,4 +17,4 @@ I would like to express my sincere gratitude to my supervisor, [Mohsen Pourpoune
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/NXi99/Python-codes-and-results.git
+   git clone https://github.com/NXi99/Python-codes-and-results
